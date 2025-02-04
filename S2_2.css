@@ -1,0 +1,42 @@
+﻿h1 {
+    text-shadow: 0px 5px 5px yellow, 0px -5px 5px red;
+}
+body {
+    background-image: url("https://www.m9.news/wp-content/uploads/2024/12/ipl-srh.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-color: orange;
+}
+
+.fa-x-twitter {
+    position: relative;
+    color: white;
+    top: 350px;
+    left: 1350px;
+    transform: scale(2);
+}
+
+.fa-instagram {
+    position: relative;
+    transform: scale(2);
+    color: white;
+    top: 350px;
+    left: 1380px;
+}
+
+.fa-youtube {
+    position: relative;
+    transform: scale(2);
+    color: white;
+    top: 350px;
+    left: 1410px;
+}
+
+.fa-facebook {
+    position: relative;
+    transform: scale(2);
+    color: white;
+    top: 350px;
+    left: 1430px;
+}

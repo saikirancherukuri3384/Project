@@ -1,0 +1,114 @@
+﻿#first {
+    color: orange;
+    text-shadow: 0px 5px 5px red;
+    text-align:center;
+}
+
+#second {
+    color: orange;
+    text-shadow: 0px 5px 5px red;
+    text-align:center;
+    position:relative;
+    top: 100px;
+}
+
+body {
+    background-image: url("https://wallpapersok.com/images/hd/4k-sunrisers-cricket-team-xbsbwt29q0ojimvq.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#buttonone:hover,
+#buttontwo:hover,
+#buttonthree:hover,
+#buttonfour:hover,
+#buttonfive:hover {
+    background-color: orange;
+}
+
+#buttonone,
+#buttontwo,
+#buttonthree,
+#buttonfour,
+#buttonfive{
+    transform: scale(1.5);
+}
+
+#buttonone
+{
+    
+    position: relative;
+    top: 550px;
+    left: 100px;
+    
+}
+#buttontwo {
+    
+   position: relative;
+   top: 490px;
+   left: 520px;
+    
+}
+#buttonthree {
+    
+    position: relative;
+    top: 430px;
+    left: 800px;
+    
+}
+#buttonfour{
+    position: relative;
+    top: 430px;
+    left: 1000px;
+}
+#buttonfive {
+    position: relative;
+    top: 430px;
+    left: 1200px;
+}
+
+
+
+
+#img1{
+    position: fixed;
+    bottom: 300px;
+    right: 1020px;
+    transform: scale(0.07);
+}
+.fa-x-twitter{
+    position:relative;
+    color: white;
+    top:530px;
+    left:1150px;
+    transform:scale(2);
+}
+.fa-instagram {
+    position: relative;
+    transform: scale(2);
+    color: hotpink;
+    top: 530px;
+    left: 1180px;
+}
+.fa-youtube {
+    position: relative;
+    transform: scale(2);
+    color: darkred;
+    top: 530px;
+    left: 1210px;
+}
+
+.fa-facebook {
+    position: relative;
+    transform: scale(2);
+    color: darkblue;
+    top: 530px;
+    left: 1240px;
+}
+
+
+
+
+
+

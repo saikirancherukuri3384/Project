@@ -1,0 +1,47 @@
+﻿body {
+    background-color: orange;
+    background-image: url("List.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+}
+#img10{
+    position:relative;
+    right:50px;
+}
+
+.fa-x-twitter, 
+.fa-instagram, 
+.fa-facebook, 
+.fa-youtube{
+    transform:scale(2);
+
+    
+}
+.fa-x-twitter{
+    color: white;
+    position:fixed;
+    top: 700px;
+    left: 1340px;
+}
+.fa-instagram {
+    color:hotpink;
+    position: fixed;
+    top: 700px;
+    left: 1390px;
+}
+
+.fa-youtube {
+    color:darkred;
+    position: fixed;
+    top: 700px;
+    left: 1440px;
+}
+
+.fa-facebook {
+    color:darkblue;
+    position: fixed;
+    top: 700px;
+    left: 1490px;
+}
+

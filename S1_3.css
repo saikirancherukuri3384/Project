@@ -1,0 +1,56 @@
+﻿body {
+    background-image: url("https://wallpapersok.com/images/hd/4k-sunrisers-cricket-team-xbsbwt29q0ojimvq.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#s1, #s2, #s3, #s4, #s5, #s6, #s7,
+#s8, #s9, #s10, #s11, #s12, #s13, #s14 {
+    
+    color: white;
+}
+#o1, #o2, #o3, #o4, #o5, #o6, #o7,
+#o8, #o9, #o10, #o11, #o12, #o13, #o14 {
+    color: white;
+}
+#s1_1, #s2_1, #s3_1, #s4_1, #s5_1, #s6_1, #s7_1,
+#s8_1, #s9_1, #s10_1, #s11_1, #s12_1, #s13_1, #s14_1 {
+    color: white;
+}
+.fa-x-twitter,
+.fa-instagram,
+.fa-facebook,
+.fa-youtube {
+    transform: scale(2);
+}
+
+.fa-x-twitter {
+    color: white;
+    position: fixed;
+    top: 700px;
+    left: 1340px;
+}
+
+.fa-instagram {
+    color: hotpink;
+    position: fixed;
+    top: 700px;
+    left: 1390px;
+}
+
+.fa-youtube {
+    color: darkred;
+    position: fixed;
+    top: 700px;
+    left: 1440px;
+}
+
+.fa-facebook {
+    color: darkblue;
+    position: fixed;
+    top: 700px;
+    left: 1490px;
+}
+
+
